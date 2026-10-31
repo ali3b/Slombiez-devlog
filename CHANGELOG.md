@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased (v0.10 in progress)
+- Headless sim runner: 20 towns x 3 days in ~5 min; balance report with failures documented
+- Fix: the whole town hid forever (noise habituation; aware people make supply runs instead of working)
+- Tougher outbreak: 3 dead + 4 bitten, bites infect 40%, barricades hold 6 min
+- Fix: a person spawned inside a wall stood frozen for 3 days
+- Soundscape (ambience, gunshots, glass, doors, crashes, engines, alarms, POV heartbeat) and volume setting
+- Zombies hunch, loll and reach (procedural posture)
+
 ## v0.9.0-alpha (2026-11-01)
 - Steam Deck AppImage
 - Worst-case crowd performance 57 -> 111 fps (lightweight locomotion, baked exact heights)
