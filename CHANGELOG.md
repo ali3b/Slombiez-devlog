@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.16.0-alpha (2026-11-01)
+- Survivors look before they go (wait for a clear street unless desperate)
+- Event bus isolates UI/audio/camera listeners: a bug there can't break the sim tick
+- Director cam: whispers, barricades, starvation
+- Long soak: 26 game hours at 16x, 165 fps, 0 errors; release soak Deck 157 fps, 0 hitches
+
 ## v0.15.0-alpha (2026-11-01)
 - Weather: misty mornings, foggy dusks, rain; changes sight and sound outdoors; fog, grey light, rain visuals and audio; feed lines
 - Fix: feed crash inside the sim step (sighting merged into a bite line); feed can no longer break a tick
