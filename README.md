@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.14.0-alpha** · [latest post](posts/2026-11-01-v0.14-their-story.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.15.0-alpha** · [latest post](posts/2026-11-01-v0.15-weather.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** the night's dead rise at home among their families, one walks the street, and four people are bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -24,6 +24,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 - **Survival: become anyone.** Take over any living person (or Start > Become someone): needs, loot, barricades, weapons, sneaking. When they die, carry on as someone who loved them.
 - **Save and load** the whole town exactly, mid-story.
 - **Pause menu** built for the Deck: live graphics switch, New town (new people, new story), controls, quit.
+- **Weather:** misty mornings, foggy dusks and rain that hide you and drown your footsteps.
 - **Day and night,** street lamps, roof cutaway that reveals who's sheltering inside to look inside, an intro cinematic that finds a real patient zero, and a live "what's happening" feed.
 
 ## Builds

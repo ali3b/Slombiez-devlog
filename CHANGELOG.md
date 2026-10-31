@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.15.0-alpha (2026-11-01)
+- Weather: misty mornings, foggy dusks, rain; changes sight and sound outdoors; fog, grey light, rain visuals and audio; feed lines
+- Fix: feed crash inside the sim step (sighting merged into a bite line); feed can no longer break a tick
+- Deck 159 fps, 0 hitches; 160 tests
+
 ## v0.14.0-alpha (2026-11-01)
 - Inspector: Their story (past + today's moments); fits 720p/Deck (two-column needs)
 - Relationship arcs to loved ones (alive / risen / dead)
