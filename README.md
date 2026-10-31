@@ -7,11 +7,12 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.13.0-alpha** · [latest post](posts/2026-11-01-v0.13-echoes-groups-and-an-inner-voice.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.14.0-alpha** · [latest post](posts/2026-11-01-v0.14-their-story.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** the night's dead rise at home among their families, one walks the street, and four people are bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
 - **Minds that know only what they've seen:** before someone sees the dead, they think about work and the flu going round. The curious go to look at gunshots, and that is how it spreads.
+- **Their story and their people:** a defining moment from their past, today's moments, and arcs in the world to everyone they love (alive, risen or dead).
 - **Inspect anyone:** what they're doing and why, in their own words; fear, alarm and health; their thoughts; their people. You see what they don't: *"Infected. They don't know yet."*
 - **The dead remember:** they drift back to their homes, workplaces and loved ones. Hordes only form with a reason, and loners walk alone.
 - **Through their eyes:** ride any person's or zombie's head. Fear closes in on the living; the dead see sound.

@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.14.0-alpha (2026-11-01)
+- Inspector: Their story (past + today's moments); fits 720p/Deck (two-column needs)
+- Relationship arcs to loved ones (alive / risen / dead)
+- First-run hints
+- Deck 167 fps, 0 hitches; 16x stress 175 fps
+
 ## v0.13.0-alpha (2026-11-01)
 - Whispers to the dead: stir them home, toward someone they loved, or to places that meant something
 - Regroup: survivors alone make a daylight dash to bigger groups (daytime life in falling towns 3% -> 6%)
