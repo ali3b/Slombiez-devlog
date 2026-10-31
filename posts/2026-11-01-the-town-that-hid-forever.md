@@ -1,6 +1,6 @@
 # The town that hid forever (and the towns that fought back)
 
-*1 November 2026 · work in progress toward v0.10*
+*1 November 2026 · v0.10.0-alpha*
 
 We built a headless **sim runner**. It runs the real town simulation outside Unity, with no graphics, about 8,000× faster than real time. Twenty different towns (seeds), three in-game days each, take about five minutes. It writes a report on who lived, who died, why, and whether the story was worth watching. This post covers what it caught. Most of it was not flattering.
 
@@ -47,9 +47,14 @@ The living are good at killing zombies, sometimes *too* good:
 
 **What causes the losses now:** being bitten at a breached door (36%), being mauled while already infected (20%), being bitten when someone inside turned (15%), and being bitten in the open (13%). Patient zeros are now only 16% of losses (they were 33%), so the town's own choices drive the story.
 
-## Also coming in v0.10
+## Also in v0.10
 - **Sound.** Wind, birdsong by day that thins as the town dies, crickets at night, gunshots echoing between houses, breaking glass, banging doors, crashes, engines on passing cars, wailing car alarms, and the subject's heartbeat when you ride their eyes. Each sound is synthesised for now, and ElevenLabs versions follow once generated. There's a volume control in the pause menu.
 - **The dead look dead.** There's no zombie animation pack yet, so zombies get a procedural posture on top of the walk cycle: a hunched spine, a lolling head, arms that hang or reach out once they've seen prey. Each one is a little different.
 
+## Performance
+Deck tier soak (45 s at 4× speed): **181 fps average**, p99 frame 12.6 ms, one hitch. Ultra at 1080p: **91 fps**. Both are up from v0.9, despite a busier town.
+
 ## Next
+Survival mode foundations are in the sim: hunger, thirst and fatigue for everyone, loot in every building, scavenging, barricades with planks and nails, weapons, and possessing any survivor, plus exact save/load. Next up is wiring it into the game.
+
 I'll keep re-running the runner after every balance change and posting the numbers here, failures included.
