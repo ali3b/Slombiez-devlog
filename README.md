@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.10.0-alpha** · [latest post](posts/2026-11-01-the-town-that-hid-forever.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.10.0-alpha** · [latest post](posts/2026-11-01-become-anyone.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** three patient zeros at dawn, four people bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -36,7 +36,7 @@ Playable builds are **private alpha** downloads ([private releases](https://gith
 | 1 Zombie ant farm | done | baked town, NavMesh, hordes, noise, day/night |
 | 2 Simulated humans + Observer | **in progress** | psyches, outbreak, inspector, thoughts, intro, voices |
 | 2.5 Spectacle | done | director cam, through-their-eyes POV, death replay |
-| 3 Survival mode | | play one survivor in the same world |
+| 3 Survival mode | **in progress** | become anyone: needs, loot, barricades, weapons, carry on as a loved one |
 | 4 Town/City | **started** | ~~traffic until it falls apart~~, ~~decay~~, districts |
 | 5 Mall · 6 Office | | different ways to play |
 | 7 Polish & release | | |
