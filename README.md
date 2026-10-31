@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.7.0-alpha** · [latest post](posts/2026-10-31-a-menu-and-the-people-inside.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.8.0-alpha** · [latest post](posts/2026-11-01-traffic-and-decay.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** two patient zeros at dawn, three people bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -17,6 +17,8 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 - **Through their eyes:** ride any person's or zombie's head. Fear closes in on the living; the dead see sound.
 - **Director camera:** cuts to the most dramatic moment and captions it.
 - **Death replay:** rewind anyone's last minute and relive it through their eyes.
+- **Traffic until it falls apart:** the town's own cars, bus and garbage truck drive, then crash, get abandoned, and flee town.
+- **A town that decays:** blood, glass, rubble and trash accumulate where things happened.
 - **Pause menu** built for the Deck: live graphics switch, New town (new people, new story), controls, quit.
 - **Day and night,** street lamps, roof cutaway that reveals who's sheltering inside to look inside, an intro cinematic that finds a real patient zero, and a live "what's happening" feed.
 
@@ -35,7 +37,7 @@ Playable builds are **private alpha** downloads ([private releases](https://gith
 | 2 Simulated humans + Observer | **in progress** | psyches, outbreak, inspector, thoughts, intro, voices |
 | 2.5 Spectacle | done | director cam, through-their-eyes POV, death replay |
 | 3 Survival mode | | play one survivor in the same world |
-| 4 Town/City | | traffic until it falls apart, decay over days, districts |
+| 4 Town/City | **started** | ~~traffic until it falls apart~~, ~~decay~~, districts |
 | 5 Mall · 6 Office | | different ways to play |
 | 7 Polish & release | | |
 

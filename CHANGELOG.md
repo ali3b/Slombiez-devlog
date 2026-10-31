@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.8.0-alpha (2026-11-01)
+- Traffic on an auto-extracted road network with the town's own 29 vehicles: commuters, bus, garbage truck; panic, crashes, alarms, abandonment, fleeing town
+- Town decay rendered with POLYGON Apocalypse props
+- Feed: traffic events; repeated bites fold into one line
+
 ## v0.7.0-alpha (2026-10-31)
 - Pause menu (D-pad): graphics tier live, speed, New town, controls, quit
 - Sheltering people are drawn inside their rooms (revealed by the roof cutaway)
