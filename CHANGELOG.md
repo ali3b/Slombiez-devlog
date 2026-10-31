@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.6.0-alpha (2026-10-31)
+- Death replay: rewind anyone's last minute through their eyes
+- Street lamps at night (emissive heads + camera-following spotlights)
+- Fixed red-tinted nights (demo scene grading stacked on ours)
+
 ## v0.5.0-alpha (2026-10-31)
 - Through-their-eyes POV for the living (fear, wounds, fever) and the dead (noise rings, fragments)
 - Director camera that finds and captions the most dramatic moment
