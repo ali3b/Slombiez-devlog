@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.8.0-alpha** · [latest post](posts/2026-11-01-traffic-and-decay.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.9.0-alpha** · [latest post](posts/2026-11-01-twice-as-fast-and-an-appimage.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** two patient zeros at dawn, three people bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -24,7 +24,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 
 ## Builds
 Each update comes in two flavours:
-- **Steam Deck:** tuned for the Deck (Vulkan, 1280×800, about 60 fps target with headroom).
+- **Steam Deck:** a single-file **AppImage** (plus a folder build), tuned for the Deck (Vulkan, 1280×800, about 60 fps target with headroom).
 - **PC Ultra:** long-range 4K shadow maps, ambient occlusion, MSAA, cinematic post-processing.
 
 Playable builds are **private alpha** downloads ([private releases](https://github.com/ali3b/Slombiez/releases), invite only), because they contain licensed Synty art, which is only distributed with the final game. This repo is the public story of the build: screenshots, what changed, and what's next.

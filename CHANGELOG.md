@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.9.0-alpha (2026-11-01)
+- Steam Deck AppImage
+- Worst-case crowd performance 57 -> 111 fps (lightweight locomotion, baked exact heights)
+- Sex-matched bodies and feminine animation set
+
 ## v0.8.0-alpha (2026-11-01)
 - Traffic on an auto-extracted road network with the town's own 29 vehicles: commuters, bus, garbage truck; panic, crashes, alarms, abandonment, fleeing town
 - Town decay rendered with POLYGON Apocalypse props
