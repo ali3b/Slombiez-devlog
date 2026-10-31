@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.16.1-alpha (2026-11-01)
+- The first morning is always clear or softly misty
+- Fire effect and charred material prepared while loading (no stutter on the first burning car)
+- Soak hitch log names the sim events in slow frames (the last rare hitches: at most 4 per 26 game hours, under 65 ms)
+
 ## v0.16.0-alpha (2026-11-01)
 - Survivors look before they go (wait for a clear street unless desperate)
 - Event bus isolates UI/audio/camera listeners: a bug there can't break the sim tick

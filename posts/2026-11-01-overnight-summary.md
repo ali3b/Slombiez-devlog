@@ -1,8 +1,8 @@
-# Overnight: v0.10 → v0.16 in one page
+# Overnight: v0.10 → v0.16.1 in one page
 
 *1 November 2026 · for when you wake up*
 
-Seven releases while you slept. Each came with a Steam Deck AppImage, a Deck tarball and a PC Ultra build, each was soak-tested before publishing, and all are on the private releases page. **Latest: v0.16.0-alpha.**
+Seven releases while you slept. Each came with a Steam Deck AppImage, a Deck tarball and a PC Ultra build, each was soak-tested before publishing, and all are on the private releases page. **Latest: v0.16.1-alpha** (a clear first morning, no stutter on the first burning car).
 
 ## What you can do now that you couldn't last night
 | | Where | How |

@@ -9,7 +9,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ## Where it's at
 > **Just woke up?** [Overnight: v0.10 → v0.16 in one page](posts/2026-11-01-overnight-summary.md)
 
-**Latest: v0.16.0-alpha** · [latest post](posts/2026-11-01-v0.16-look-before-you-go.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.16.1-alpha** · [latest post](posts/2026-11-01-v0.16-look-before-you-go.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** the night's dead rise at home among their families, one walks the street, and four people are bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
