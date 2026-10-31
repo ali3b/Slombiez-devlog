@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.10.0-alpha** · [latest post](posts/2026-11-01-become-anyone.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.10.0-alpha** · [latest post](posts/2026-11-01-nobody-leaves-town-in-five-minutes.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** three patient zeros at dawn, four people bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
