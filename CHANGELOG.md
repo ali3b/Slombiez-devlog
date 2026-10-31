@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.7.0-alpha (2026-10-31)
+- Pause menu (D-pad): graphics tier live, speed, New town, controls, quit
+- Sheltering people are drawn inside their rooms (revealed by the roof cutaway)
+
 ## v0.6.0-alpha (2026-10-31)
 - Death replay: rewind anyone's last minute through their eyes
 - Street lamps at night (emissive heads + camera-following spotlights)

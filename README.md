@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.6.0-alpha** · [latest post](posts/2026-10-31-last-moments.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.7.0-alpha** · [latest post](posts/2026-10-31-a-menu-and-the-people-inside.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** two patient zeros at dawn, three people bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -17,7 +17,8 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 - **Through their eyes:** ride any person's or zombie's head. Fear closes in on the living; the dead see sound.
 - **Director camera:** cuts to the most dramatic moment and captions it.
 - **Death replay:** rewind anyone's last minute and relive it through their eyes.
-- **Day and night,** roof cutaway to look inside, an intro cinematic that finds a real patient zero, and a live "what's happening" feed.
+- **Pause menu** built for the Deck: live graphics switch, New town (new people, new story), controls, quit.
+- **Day and night,** street lamps, roof cutaway that reveals who's sheltering inside to look inside, an intro cinematic that finds a real patient zero, and a live "what's happening" feed.
 
 ## Builds
 Each update comes in two flavours:
