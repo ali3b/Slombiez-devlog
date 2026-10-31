@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.11.0-alpha (2026-11-01)
+- Survival mode begins: become anyone (D-pad up / K, or Start > Become someone); move, run, sneak, fight, search, go in and out, shoot, board up, eat and drink, take all; carry on as a loved one after death
+- Needs, loot, scavenging, barricades and real weapons for the whole town; the inspector shows needs and kit
+- Recognition: a distant walking corpse is "a man walking funny" until a good look
+- The night's dead rise at home among family; police hesitate before shooting
+- Leaving town by car: 16% -> 8-11%, spread over days; bus and garbage truck run until true panic
+- Headless runner simulates traffic and survival; all Phase 2 gate checks pass
+- Deck tier soak: 164 fps avg, p99 13.2 ms, 0 hitches; Ultra 1080p 82 fps
+
 ## v0.10.0-alpha (2026-11-01)
 - Headless sim runner: 20 towns x 3 days in ~5 min; balance report with failures documented
 - Fix: the whole town hid forever (noise habituation; aware people make supply runs instead of working)
