@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.12.1-alpha (2026-11-01)
+- Fix: 100 ms hitch on the first groan or gunshot (sounds now synthesised while loading); 0 hitches on both tiers
+
+## v0.12.0-alpha (2026-11-01)
+- Whispers: D-pad down / T on anyone; thoughts that fit them; they react as themselves; accepted thoughts change behaviour
+- Whisper in your own words (offline parser into the same safe effects)
+- Save / Load (exact, including traffic and decay)
+- Zombie voices: synthesised groans, far moans, snarls, door pounding
+
 ## v0.11.0-alpha (2026-11-01)
 - Survival mode begins: become anyone (D-pad up / K, or Start > Become someone); move, run, sneak, fight, search, go in and out, shoot, board up, eat and drink, take all; carry on as a loved one after death
 - Needs, loot, scavenging, barricades and real weapons for the whole town; the inspector shows needs and kit
