@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.5.0-alpha (2026-10-31)
+- Through-their-eyes POV for the living (fear, wounds, fever) and the dead (noise rings, fragments)
+- Director camera that finds and captions the most dramatic moment
+- Release tooling: both flavours soak-tested from the package before publishing
+
 ## v0.4.0-alpha (2026-10-31)
 - Intro cinematic that finds a real patient zero and lets you watch them rise
 - Two build flavours: **Steam Deck** and **PC Ultra** (4K shadow maps, SSAO, MSAA, cinematic post-processing)
