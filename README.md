@@ -7,7 +7,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 ![The town wakes up](media/02-intro-flyover.png)
 
 ## Where it's at
-**Latest: v0.12.1-alpha** · [latest post](posts/2026-11-01-v0.12-say-it-in-your-own-words.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
+**Latest: v0.13.0-alpha** · [latest post](posts/2026-11-01-v0.13-echoes-groups-and-an-inner-voice.md) · [all posts](posts/) · [changelog](CHANGELOG.md)
 
 - **A real town:** 75 people (residents and visitors), each with a name, job, family, personality, fears and a past. They live their day: sleep, work shifts, errands, visits, strolls.
 - **The outbreak starts small:** the night's dead rise at home among their families, one walks the street, and four people are bitten who don't know it yet. Every zombie that will ever walk here is one of the townspeople.
@@ -19,7 +19,7 @@ Built in Unity 6 (URP) with Synty art, for PC and Steam Deck. Single-player.
 - **Death replay:** rewind anyone's last minute and relive it through their eyes.
 - **Traffic until it falls apart:** the town's own cars, bus and garbage truck drive, then crash, get abandoned, and flee town.
 - **A town that decays:** blood, glass, rubble and trash accumulate where things happened.
-- **Whispers.** Put a thought in anyone's head (D-pad ▼): find their daughter, go home, hide, doubt a friend. Or type your own words. They react as themselves, and a thought that takes hold changes what they do.
+- **Whispers.** Put a thought in anyone's head (D-pad ▼): find their daughter, go home, hide, doubt a friend. Or type your own words. Even the dead can be stirred toward home or someone they loved. They react as themselves, and a thought that takes hold changes what they do.
 - **Survival: become anyone.** Take over any living person (or Start > Become someone): needs, loot, barricades, weapons, sneaking. When they die, carry on as someone who loved them.
 - **Save and load** the whole town exactly, mid-story.
 - **Pause menu** built for the Deck: live graphics switch, New town (new people, new story), controls, quit.

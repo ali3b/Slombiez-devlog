@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.13.0-alpha (2026-11-01)
+- Whispers to the dead: stir them home, toward someone they loved, or to places that meant something
+- Regroup: survivors alone make a daylight dash to bigger groups (daytime life in falling towns 3% -> 6%)
+- Optional language model (Anthropic / OpenRouter / local): deeper typed whispers, inner voice for the inspected person; offline fallback always
+- Deck 163 fps, 0 hitches; 157 tests
+
 ## v0.12.1-alpha (2026-11-01)
 - Fix: 100 ms hitch on the first groan or gunshot (sounds now synthesised while loading); 0 hitches on both tiers
 
